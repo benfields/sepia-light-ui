@@ -1,7 +1,7 @@
 {
   "name": "sepia-light-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A light sepia theme for atom components.",
   "repository": "https://github.com/benfields/sepia-light-ui",
   "license": "MIT",
